@@ -1,0 +1,4 @@
+XC_E221_3Fans_AP_R110.bin, 1, 1, 10
+FTW_E227_3Fans_AP_R113.bin, 2, 1, 13
+FTW_E230_3Fans_376x_AP_R102.bin, 4, 1, 2
+XC_E229_3Fans_375x_AP_R101.bin, 5, 1, 1

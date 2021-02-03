@@ -1,0 +1,10 @@
+C:\Users\bmg\source\repos\EVGAMCUTOOL\bin\Debug\EVGAMCUTOOL.exe.config
+C:\Users\bmg\source\repos\EVGAMCUTOOL\bin\Debug\EVGAMCUTOOL.exe
+C:\Users\bmg\source\repos\EVGAMCUTOOL\bin\Debug\EVGAMCUTOOL.pdb
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.csprojAssemblyReference.cache
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.Properties.Resources.resources
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.csproj.GenerateResource.cache
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.csproj.CoreCompileInputs.cache
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.exe
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.pdb
+C:\Users\bmg\source\repos\EVGAMCUTOOL\obj\Debug\EVGAMCUTOOL.Form1.resources
